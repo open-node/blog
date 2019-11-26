@@ -18,6 +18,7 @@
 
 ## @open-node/antman 用法直接参考项目的README
 
-[https://github.com/open-node/antman](open-node/antman)
+<pre>npm install @open-node/antman </pre>
+<pre>npm install @open-node/antman -g </pre>
 
-
+[@open-node/antman](https://github.com/open-node/antman)
