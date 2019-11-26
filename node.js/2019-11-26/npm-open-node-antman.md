@@ -21,4 +21,9 @@
 <pre>npm install @open-node/antman </pre>
 <pre>npm install @open-node/antman -g </pre>
 
+## 操作简单DEMO
+![@open-node/antman 调试DEMO](../../asserts/antman.gif)
+
+
+## 项目地址
 [@open-node/antman](https://github.com/open-node/antman)
